@@ -48,7 +48,7 @@ The dashboard was build using the following tools and technologies:
 
 🏷 Brand-wise Sales & Quantity – OnePlus vs Xiaomi
 
-**5. Screenshots / Demos**
+**6. Screenshots / Demos**
 
 ![Dashboard Preview].(https://github.com/Arpitabagdawat/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales.png).
 
