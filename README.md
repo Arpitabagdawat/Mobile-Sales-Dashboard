@@ -1,17 +1,18 @@
 # Mobile-Sales-Dashboard
 
 Recommended Structure and Order
-1. Project Title / Headline
+
+**1. Project Title / Headline**
 
 Motorola Sales Dashboard – Sales & Performance Insights
 
-2. Short Description / Purpose
+**2. Short Description / Purpose**
 
 This dashboard is designed to analyze and visualize Motorola’s mobile sales performance across different cities in India. It provides insights into total sales, quantity sold, transactions, customer ratings, sales by city, mobile model, and payment methods.
 
 Purpose: To help management track sales trends, customer behavior, and product performance for data-driven decisions.
 
-4. Tech Stack
+**3. Tech Stack**
 
 The dashboard was build using the following tools and technologies:
 
@@ -25,7 +26,7 @@ The dashboard was build using the following tools and technologies:
 
 📁 File Format – .pbix for development and .png for dashboard previews.
 
-5. Data Source
+**4. Data Source**
 
 📑 Excel file – Mobile sales dataset containing sales, transactions, ratings, and product details.
 
@@ -47,7 +48,7 @@ Features / Highlights
 
 🏷 Brand-wise Sales & Quantity – OnePlus vs Xiaomi
 
-6. Screenshots / Demos
+**5. Screenshots / Demos**
 
 ![Dashboard Preview].(https://github.com/Arpitabagdawat/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales.png).
 
