@@ -30,7 +30,7 @@ The dashboard was build using the following tools and technologies:
 
 📑 Excel file – Mobile sales dataset containing sales, transactions, ratings, and product details.
 
-Features / Highlights
+**5. Features / Highlights**
 
 📊 KPIs: Total Sales, Total Quantity, Transactions, Average Sales
 
