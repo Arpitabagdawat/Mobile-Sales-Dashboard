@@ -48,11 +48,7 @@ Features / Highlights
 
 6. Screenshots / Demos
 
-![Dashboard Preview].(https://github.com/Arpitabagdawat/HR-Analysis-Project/blob/main/HR%20analysis.png).
+![Dashboard Preview].(https://github.com/Arpitabagdawat/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales.png).
 
 
 
-
----
-
-Kya aap chahte ho main aapke liye iska exact GitHub README.md code (markdown formatting) bhi bana du?
