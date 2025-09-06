@@ -8,6 +8,7 @@ Motorola Sales Dashboard – Sales & Performance Insights
 2. Short Description / Purpose
 
 This dashboard is designed to analyze and visualize Motorola’s mobile sales performance across different cities in India. It provides insights into total sales, quantity sold, transactions, customer ratings, sales by city, mobile model, and payment methods.
+
 Purpose: To help management track sales trends, customer behavior, and product performance for data-driven decisions.
 
 4. Tech Stack
